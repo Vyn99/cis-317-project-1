@@ -68,15 +68,15 @@ nav:hover ul:hover li:hover a:hover{
 }
 
 .footer-container {
-    background-color: grey;
+    background-color: #2a2a2a;
     padding: 4rem 0 4rem 0;
 }
 
 .footer {
     width: 80%;
     height: 40vh;
-    background-color: grey;
-    color: black;
+    background-color: #2a2a2a;
+    color: white;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -94,7 +94,7 @@ nav:hover ul:hover li:hover a:hover{
 }
 
 .footer-heading a {
-    color: black;
+    color: white;
     text-decoration: none;
     margin-bottom: 0.5;
 }
