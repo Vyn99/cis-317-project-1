@@ -120,7 +120,8 @@ nav:hover ul:hover li:hover a:hover{
     width: 50%;
     height: 300px;
     background-image: url(./images/cal.jpg);
-    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .image-overlay {
