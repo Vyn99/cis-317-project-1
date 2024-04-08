@@ -7,20 +7,21 @@ body {
     background-color: #000;
 
 }
-.lower_header {
+header {
 
     padding: 10px 100px;
-    display: inline-flex;
-    line-height: 72px;
+    height:auto;
+    display:inline-flex;
+    line-height: 74px;
     color: #fff;
     
 }
 
 h1 {
 
-    font-size: 1.5rem;
-    padding: 5px
-
+      font-size: 1.65rem;
+      padding: 3px;
+    
 }
 
 nav{
