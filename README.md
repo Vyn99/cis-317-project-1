@@ -8,3 +8,6 @@ Links:
 [W3 Schools](https://www.w3schools.com/)
 
 [facts.net](https://facts.net/lifestyle/sports/19-facts-about-manchester-united/)
+
+
+For this assignment, I used Flexbox to construct the body of the website and filled the various Flexbox with an image and several different facts about Manchester United that I found online. Once done with this, I developed the footer, incorporating different hover options to choose from with a color scheme that matches the website's theme. Finally, in the footer, I added an input email element that prompts users to enter their email for more information.
